@@ -4,7 +4,7 @@ IN PROGRESS: de codelijsten zijn nog niet in gebruik.
 
 Deze repository omvat een aantal codelijsten voor het uitwisselingsplatform https://data.uitwisselingsplatform.be.
 
-Per codelijst wordt een subdirectory aangemaakt. Elke codelijst is een of meerdere RDF files in de turtle syntax volgens het [SKOS vocabularium](https://www.w3.org/TR/skos-primer/).
+Per codelijst wordt een subdirectory aangemaakt. Elke codelijst is een RDF file in de turtle syntax volgens het [SKOS vocabularium](https://www.w3.org/TR/skos-primer/).
 
 # vormafspraken de codelijsten
 
