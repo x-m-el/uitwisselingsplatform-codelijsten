@@ -15,7 +15,7 @@
     skos:definition "De participant neemt de rol van bezoeker op bij de Activiteit"@nl ;
     skos:topConceptOf <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> .
 
-https://data.cultuurparticipatie.be/id/concept/DeelnameType/toeschouwer> 
+<https://data.cultuurparticipatie.be/id/concept/DeelnameType/toeschouwer> 
     a skos:Concept ;
     skos:inscheme <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> ;
     skos:prefLabel "toeschouwer"@nl ;

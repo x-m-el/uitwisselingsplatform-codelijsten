@@ -15,21 +15,21 @@
     skos:definition "De participant neemt deel aan de Activiteit als een natuurlijk persoon"@nl ;
     skos:topConceptOf <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> .
 
-https://data.cultuurparticipatie.be/id/concept/DeelnameType/rechtspersoon> 
+<https://data.cultuurparticipatie.be/id/concept/DeelnameType/rechtspersoon> 
     a skos:Concept ;
     skos:inscheme <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> ;
     skos:prefLabel "Rechtspersoon"@nl ;
     skos:definition "De participant neemt deel aan de Activiteit als een rechtspersoon"@nl ;
     skos:topConceptOf <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> .
 
-https://data.cultuurparticipatie.be/id/concept/DeelnameType/feitelijkeVereniging> 
+<https://data.cultuurparticipatie.be/id/concept/DeelnameType/feitelijkeVereniging> 
     a skos:Concept ;
     skos:inscheme <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> ;
     skos:prefLabel "Feitelijke vereniging"@nl ;
     skos:definition "De participant neemt deel aan de Activiteit als een feitelijke vereniging"@nl ;
     skos:topConceptOf <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> .
 
-https://data.cultuurparticipatie.be/id/concept/DeelnameType/publiekeOrganisatie> 
+<https://data.cultuurparticipatie.be/id/concept/DeelnameType/publiekeOrganisatie> 
     a skos:Concept ;
     skos:inscheme <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> ;
     skos:prefLabel "Publieke organisatie"@nl ;
