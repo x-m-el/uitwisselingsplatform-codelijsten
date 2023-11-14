@@ -698,4 +698,3 @@
     skos:definition "Een kamp of vakantie met een specifiek thema of onderwerp."@nl ;
     skos:topConceptOf <https://data.cultuurparticipatie.be/id/conceptscheme/ThemaType> ;
     owl:sameAs <https://taxonomy.uitdatabank.be/terms/1.11.2.0.0> .
-    
