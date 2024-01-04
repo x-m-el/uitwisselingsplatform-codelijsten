@@ -10,14 +10,14 @@
 
 <https://data.cultuurparticipatie.be/id/concept/DeelnameType/bezoeker> 
     a skos:Concept ;
-    skos:inscheme <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> ;
+    skos:inScheme <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> ;
     skos:prefLabel "bezoeker"@nl ;
     skos:definition "De participant neemt de rol van bezoeker op bij de Activiteit"@nl ;
     skos:topConceptOf <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> .
 
 <https://data.cultuurparticipatie.be/id/concept/DeelnameType/toeschouwer> 
     a skos:Concept ;
-    skos:inscheme <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> ;
+    skos:inScheme <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> ;
     skos:prefLabel "toeschouwer"@nl ;
     skos:definition "De participant neemt de rol van toeschouwer op bij de Activiteit"@nl ;
     skos:topConceptOf <https://data.cultuurparticipatie.be/id/conceptscheme/DeelnameType> .

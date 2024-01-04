@@ -10,21 +10,21 @@
 
 <https://data.cultuurparticipatie.be/id/concept/Aanwezigheidsmodus/fysiek> 
     a skos:Concept ;
-    skos:inscheme <https://data.cultuurparticipatie.be/id/conceptscheme/Aanwezigheidsmodus> ;
+    skos:inScheme <https://data.cultuurparticipatie.be/id/conceptscheme/Aanwezigheidsmodus> ;
     skos:prefLabel "fysiek"@nl ;
     skos:definition "De Activiteit gaat door op een fysieke locatie"@nl ;
     skos:topConceptOf <https://data.cultuurparticipatie.be/id/conceptscheme/Aanwezigheidsmodus> .
 
 <https://data.cultuurparticipatie.be/id/concept/Aanwezigheidsmodus/online> 
     a skos:Concept ;
-    skos:inscheme <https://data.cultuurparticipatie.be/id/conceptscheme/Aanwezigheidsmodus> ;
+    skos:inScheme <https://data.cultuurparticipatie.be/id/conceptscheme/Aanwezigheidsmodus> ;
     skos:prefLabel "online"@nl ;
     skos:definition "De Activiteit gaat online door"@nl ;
     skos:topConceptOf <https://data.cultuurparticipatie.be/id/conceptscheme/Aanwezigheidsmodus> .
 
 <https://data.cultuurparticipatie.be/id/concept/Aanwezigheidsmodus/hybride> 
     a skos:Concept ;
-    skos:inscheme <https://data.cultuurparticipatie.be/id/conceptscheme/Aanwezigheidsmodus> ;
+    skos:inScheme <https://data.cultuurparticipatie.be/id/conceptscheme/Aanwezigheidsmodus> ;
     skos:prefLabel "hybride"@nl ;
     skos:definition "De Activiteit kan zowel online als fysiek bijgewoond worden"@nl ;
     skos:topConceptOf <https://data.cultuurparticipatie.be/id/conceptscheme/Aanwezigheidsmodus> .
